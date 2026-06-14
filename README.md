@@ -1,5 +1,5 @@
 # Halaqat-Management-System
-
+----
 This repository is private in compliance with a Non-Disclosure Agreement (NDA) with the client. The project is a comprehensive full-stack management system.
 ---
 هذا المستودع مغلق (Private) التزاماً باتفاقية سرية المعلومات (NDA) مع العميل. المشروع عبارة عن نظام إدارة متكامل
